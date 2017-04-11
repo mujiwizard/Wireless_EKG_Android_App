@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "989709572390",
+    "firebase_url": "https://wireless-ekg-hrm-and-spo2.firebaseio.com",
+    "project_id": "wireless-ekg-hrm-and-spo2",
+    "storage_bucket": "wireless-ekg-hrm-and-spo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989709572390:android:5f65a0c8d5e5e8ab",
+        "android_client_info": {
+          "package_name": "com.g13.mano.g13_wireless_ekg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989709572390-vrnk0m1gb9c3lhc2ghna2g4205kur8kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.g13.mano.g13_wireless_ekg",
+            "certificate_hash": "FCA5BC973FB8E8C761B5E068DA99A31354AB6796"
+          }
+        },
+        {
+          "client_id": "989709572390-st6mhvrhupf0ks4vo0jqghi5sjqpghhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXR4bRaO-_Tql9CyURgUYWj8TSVpoluA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989709572390-st6mhvrhupf0ks4vo0jqghi5sjqpghhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
