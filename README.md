@@ -11,6 +11,17 @@ The app relies on the the following software components:
 
 All Firebase JSON settings have been removed from the repository.
 
+Here are some of the views:
+
+### Login page
+![](https://github.com/mujiwizard/Wireless_EKG_Android_App/blob/master/images/Login.png)
+
+### User Info
+![](https://github.com/mujiwizard/Wireless_EKG_Android_App/blob/master/images/User_info_1.png)
+
+### EKG stream and SpO2
+![](https://github.com/mujiwizard/Wireless_EKG_Android_App/blob/master/images/Graph_View_connected.png)
+
 The hardware was built as a Adafruit Feather compatible shield. The following hardware componets were used to build the sheild
 - ADAS1000 analog front end amplifier by Analog Devices for biopotential signal (SPI communication)
 - MAX30100 SpO2 sensor (I2C implementation)
